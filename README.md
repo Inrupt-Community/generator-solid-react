@@ -63,7 +63,7 @@ There are also examples of how to use libraries like [LDFlex](https://github.com
 
 ## What's in the starter application?
 
-The SDK is continually evolving. Take a look at the [Release Timeline](https://github.com/Inrupt-inc/solid-react-sdk/tree/master#release-timeline) for what’s currently currently planned. This release includes:
+The SDK is continually evolving. Take a look at the [Release Timeline](https://github.com/Inrupt-inc/solid-react-sdk/tree/master#release-timeline) for what’s currently planned. This release includes:
 
 * [User Registration](https://github.com/Inrupt-inc/solid-react-sdk/blob/master/README.md#user-registration) for a Solid Pod.
 * [User Authentication](https://github.com/Inrupt-inc/solid-react-sdk/blob/master/README.md#user-authentication) against user selected Providers.
